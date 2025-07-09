@@ -22,3 +22,5 @@ Developed by **Velox Tools Crew** | Main Developer: **Buxfie**
 ```bash
 chmod +x velox_log_cleaner_v2.sh
 ./velox_log_cleaner_v2.sh
+"Bu sadece logları değil, izlerimi de temizledi.
+Ama içimde kalanları silemedi..."
